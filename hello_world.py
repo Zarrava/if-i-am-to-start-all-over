@@ -5,7 +5,7 @@ print ("Hello Python World!")
 #next line is to add some variables to the above code.
 
 message = "Hello Python Worlda!"
-yourName = "Elliott"
+your_name = "Elliott"
 
 print(message)
-print(yourName)
+print(your_name)
