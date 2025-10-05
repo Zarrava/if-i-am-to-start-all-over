@@ -1,0 +1,5 @@
+Ask the user for their first name and last name.
+
+Print “Hello, Firstname Lastname” in title case using an f-string.
+
+Print “Your name in uppercase is …” using an f-string.

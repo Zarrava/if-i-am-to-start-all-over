@@ -1,0 +1,7 @@
+Ask the user to input their name and:
+
+Print it in all lowercase.
+
+Print it in all uppercase.
+
+Print it in title case.

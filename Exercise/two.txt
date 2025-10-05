@@ -1,0 +1,7 @@
+Create a string variable word = " python rocks "
+
+Print the word without leading and trailing spaces.
+
+Print the word without only the left spaces.
+
+Print the word without only the right spaces.
