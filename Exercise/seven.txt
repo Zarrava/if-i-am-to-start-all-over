@@ -1,0 +1,15 @@
+Ask the user to input their favorite quote.
+
+Strip all extra spaces.
+
+Print:
+
+The quote in lowercase.
+
+The quote in uppercase.
+
+The quote in title case.
+
+Use an f-string to display:
+
+“Your formatted quote is: [formatted quote here]”
