@@ -1,0 +1,5 @@
+Create a variable quote = " success is when preparation meets opportunity "
+
+Remove the spaces and print it in title case.
+
+Print it in uppercase.

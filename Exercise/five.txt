@@ -1,0 +1,9 @@
+Ask the user for a sentence.
+
+Remove all leading/trailing spaces.
+
+Print the sentence in lowercase.
+
+Print the sentence in title case.
+
+Print the sentence in uppercase.
