@@ -1,0 +1,10 @@
+You’re given a string:
+
+message = "   welcome to PYTHON programming   "
+
+
+Remove the spaces.
+
+Print “Welcome to Python Programming” exactly like that (title case).
+
+Print “WELCOME TO PYTHON PROGRAMMING” (uppercase).
