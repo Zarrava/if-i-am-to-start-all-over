@@ -1,0 +1,5 @@
+Write a Python program where the user enters their name with random spaces, e.g. " elliott ".
+
+Automatically strip spaces.
+
+Print “Hello, Elliott!” using an f-string in title case.
