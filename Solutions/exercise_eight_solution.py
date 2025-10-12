@@ -1,0 +1,2 @@
+name = input("Enter your name please: ").strip() #this line takes the user input and take out the leading and trailing spaces and stores it in a variable
+print(f"Hello, {name.title()}!") #this line returns the formatted user input and returns in title case
