@@ -1,0 +1,5 @@
+Store the following names in a list called names;
+
+"Aderonke, Dekunle, Zeena, Eri, Ara, Elliott, Diva"
+
+Print each person’s name by accessing each element in the list, one at a time.
